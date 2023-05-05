@@ -17,4 +17,3 @@ Next, run client file :
 python client_test.py
 ```
 
-### Drive : https://drive.google.com/drive/folders/1PLR8EltrEcpX9XFaAGFm6hxqvR1dcaO8

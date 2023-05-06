@@ -19,5 +19,5 @@ python client_test.py
 
 ## After implement
 
-![image](https://user-images.githubusercontent.com/100022706/236608400-74977147-3715-43fc-b163-2e5b16c44ee6.png)
+![Screenshot (46)](https://user-images.githubusercontent.com/100022706/236608758-2bfa2560-2564-4083-825e-feb943745c37.png)
 
